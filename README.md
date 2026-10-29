@@ -30,8 +30,11 @@ Consulte `CONTENT-SOURCES.md` para as fontes das imagens.
 
 ## Publicação
 
-Este repositório armazena o código. Enviar alterações ao GitHub não atualiza automaticamente a hospedagem Sites.
-A configuração existente é preservada em `.openai/hosting.json`. O projeto usa Vinext e Cloudflare Workers; não é um pacote estático pronto para GitHub Pages.
+O site é publicado no GitHub Pages em https://www.glowuplaser.com.br.
+Todo push em `main` dispara `.github/workflows/pages.yml`, que faz o build,
+gera a versão estática com `scripts/export-static.sh` e publica.
+
+Para testar o export localmente: `npm run build && bash scripts/export-static.sh out`.
 
 ---
 

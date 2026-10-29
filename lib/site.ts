@@ -1,4 +1,4 @@
-export const origin = 'https://glow-up-laser-clinica.rodrigobueno.chatgpt.site';
+export const origin = 'https://www.glowuplaser.com.br';
 export const whatsappNumber = '5511967300631';
 export const whatsappLabel = '(11) 96730-0631';
 export const whatsappUrl = (message = 'Olá! Gostaria de saber mais sobre os serviços da Glow Up Laser.') => `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
