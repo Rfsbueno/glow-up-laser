@@ -13,9 +13,13 @@ Versões de 800 e 1600 pixels são usadas com srcset para reduzir carga em celul
 # Informações sobre laser
 https://www.aad.org/public/cosmetic/hair-removal/laser-hair-removal-faqs
 
-# Ativação futura
-Por orientação do proprietário, e-mail e WhatsApp ainda não devem ser configurados.
-O formulário não coleta, persiste ou transmite dados; apenas valida campos e informa indisponibilidade.
-Antes de habilitar envio: definir destinatário, provedor de e-mail e remetente verificado; implementar endpoint no servidor com validação, limitação de abuso e falhas explícitas; atualizar a política de privacidade.
-WhatsApp: substituir o aviso por link https://wa.me/<numero_com_DDI> quando fornecido.
-A publicação inicial é privada. SEO está preparado; indexação real exige acesso público e eventual ajuste de domínio.
+# Contatos atualizados em 29/10/2026
+Endereços transcritos do material fornecido pelo proprietário:
+- Alphaville: Centro Comercial, Calçada das Palmas, 61, 1º Andar.
+- Osasco: Pátio Osasco Open Mall, Av. Autonomista, 896, Torre 2 - Sala 1701.
+- WhatsApp autorizado: (11) 96730-0631, https://wa.me/5511967300631.
+Os links abrem a conversa; mensagens só são enviadas pelo visitante no WhatsApp.
+O formulário foi removido. Atendimento exclusivamente via WhatsApp; /cadastro redireciona à seção de unidades.
+
+# Logo transparente
+Versão PNG com canal alpha criada pela ferramenta integrada de edição de imagens a partir da logo original. Prompt: remover somente o fundo cinza, preservar lettering e textura dourados, manter canvas quadrado e transparência real. Original preservado em public/images/logo.png; site usa public/images/logo-transparent.png.

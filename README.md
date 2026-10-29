@@ -1,3 +1,42 @@
+# Glow Up Laser
+
+Site da Glow Up Laser, com unidades em Alphaville e Osasco.
+
+## Conteúdo
+
+- Página inicial, serviços, localização e privacidade.
+- Contato exclusivamente pelo WhatsApp: (11) 96730-0631.
+- Logo transparente no cabeçalho e rodapé.
+- SEO: canonical, títulos e descrições, JSON-LD, sitemap, robots.txt e llms.txt.
+- A antiga rota `/cadastro` redireciona para `/#unidades`.
+
+## Desenvolvimento
+
+Requer Node.js >=22.13.0.
+
+```sh
+npm ci
+npm run dev
+```
+
+Para gerar a versão de produção:
+
+```sh
+npm run build
+```
+
+Os contatos e endereços ficam em `lib/site.ts`; as páginas em `app/`; imagens em `public/images/`.
+Consulte `CONTENT-SOURCES.md` para as fontes das imagens.
+
+## Publicação
+
+Este repositório armazena o código. Enviar alterações ao GitHub não atualiza automaticamente a hospedagem Sites.
+A configuração existente é preservada em `.openai/hosting.json`. O projeto usa Vinext e Cloudflare Workers; não é um pacote estático pronto para GitHub Pages.
+
+---
+
+## Referência técnica do projeto-base
+
 # vinext-starter
 
 A clean full-stack starter running on [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and Drizzle support.

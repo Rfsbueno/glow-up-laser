@@ -1,18 +1,22 @@
 # Glow Up Laser
 
-> Clínica de depilação e bem-estar em Barueri, São Paulo, Brasil.
+> Clínica de depilação e bem-estar em Alphaville (Barueri) e Osasco, São Paulo, Brasil.
 
 ## Páginas
 - [Início](https://glow-up-laser-clinica.rodrigobueno.chatgpt.site/): apresentação da marca.
 - [Serviços](https://glow-up-laser-clinica.rodrigobueno.chatgpt.site/servicos): depilação a laser, depilação a cera e Spa Day.
-- [Cadastro](https://glow-up-laser-clinica.rodrigobueno.chatgpt.site/cadastro): formulário de interesse em preparação, sem coleta nesta versão.
-- [Privacidade](https://glow-up-laser-clinica.rodrigobueno.chatgpt.site/privacidade): funcionamento do formulário e dados.
+- [Privacidade](https://glow-up-laser-clinica.rodrigobueno.chatgpt.site/privacidade): contato pelo WhatsApp e conteúdo externo.
 
 ## Informações confirmadas
 - Marca: Glow Up Laser.
-- Localidade: Barueri, SP, Brasil.
+- Unidade Alphaville: Centro Comercial, Calçada das Palmas, 61, 1º Andar, Alphaville, Barueri, SP.
+- Unidade Osasco: Pátio Osasco Open Mall, Av. Autonomista, 896, Torre 2 - Sala 1701, Osasco, SP.
+- WhatsApp: +55 11 96730-0631. Conversa direta: https://wa.me/5511967300631
 - Serviços: depilação a laser, depilação a cera e Spa Day.
-- E-mail, WhatsApp, endereço completo, preços e horários ainda não divulgados.
+- E-mail, preços e horários ainda não divulgados.
 - Fotografias de banco de imagens são ilustrativas, não documentam a clínica real.
 - Ofurô é uma referência visual, não um serviço confirmado.
 - Resultados e indicação do laser dependem de avaliação individual.
+
+- Atendimento exclusivamente pelo WhatsApp; o site não possui formulário de cadastro.
+- O antigo endereço /cadastro redireciona para a seção de unidades na página inicial.
